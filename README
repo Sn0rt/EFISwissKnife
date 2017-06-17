@@ -43,7 +43,7 @@ The plugin supports batch mode in case you want to mass analyse EFI binaries and
 
 You probably want to update the GUIDs available at efi_guids.h.
 
-This code is targetting Mac OS X EFI binaries. It should work with other platforms UEFI binaries without problems or with minor
+This code is targetting Mac OS X EFI binaries. It should work with other platforms EFI binaries without problems or with minor
 modifications and updates.
 
 Only PE binaries supported, no TE binaries supported yet.
